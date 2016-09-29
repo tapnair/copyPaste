@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"20405906-7081-4d4e-9aaf-519f1c4aec30",
+	"author":	"",
+	"description":	{
+		"":	"Copy Paste Components and bodies between documents."
+	},
+	"version":	"",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
