@@ -1,5 +1,14 @@
 #Copy / Paste Bodies Utility for Autodesk Fusion 360
 
+This utility allows you to select multiple bodies across multiple components and copy them into a new component.
+
+It is intentionally __NOT__ a parametric copy and the new body has no parents in the document and is independant of the original bodies.
+
+Note the target component __does not__ have to be in the same document.
+
+Also the "clipboard" is persistant and paste will always bring in what ever the last copied body set on your current physical machine.
+
+
 ![copyPaste Cover](./resources/readMeCover.png)
 
 ## Usage:
